@@ -1,0 +1,10 @@
+D:\LTCSDLCB_C21TH2\Thuc_hanh\Chuong_1\BT01\bin\Debug\BT01.exe.config
+D:\LTCSDLCB_C21TH2\Thuc_hanh\Chuong_1\BT01\bin\Debug\BT01.exe
+D:\LTCSDLCB_C21TH2\Thuc_hanh\Chuong_1\BT01\bin\Debug\BT01.pdb
+D:\LTCSDLCB_C21TH2\Thuc_hanh\Chuong_1\BT01\obj\Debug\BT01.csproj.AssemblyReference.cache
+D:\LTCSDLCB_C21TH2\Thuc_hanh\Chuong_1\BT01\obj\Debug\BT01.Form1.resources
+D:\LTCSDLCB_C21TH2\Thuc_hanh\Chuong_1\BT01\obj\Debug\BT01.Properties.Resources.resources
+D:\LTCSDLCB_C21TH2\Thuc_hanh\Chuong_1\BT01\obj\Debug\BT01.csproj.GenerateResource.cache
+D:\LTCSDLCB_C21TH2\Thuc_hanh\Chuong_1\BT01\obj\Debug\BT01.csproj.CoreCompileInputs.cache
+D:\LTCSDLCB_C21TH2\Thuc_hanh\Chuong_1\BT01\obj\Debug\BT01.exe
+D:\LTCSDLCB_C21TH2\Thuc_hanh\Chuong_1\BT01\obj\Debug\BT01.pdb

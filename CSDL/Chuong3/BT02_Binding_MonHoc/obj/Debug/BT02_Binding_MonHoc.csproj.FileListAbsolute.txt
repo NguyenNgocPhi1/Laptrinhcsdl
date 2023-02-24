@@ -1,0 +1,10 @@
+E:\CSDLvsMySQL\Chuong3\BT02_Binding_MonHoc\bin\Debug\BT02_Binding_MonHoc.exe.config
+E:\CSDLvsMySQL\Chuong3\BT02_Binding_MonHoc\bin\Debug\BT02_Binding_MonHoc.exe
+E:\CSDLvsMySQL\Chuong3\BT02_Binding_MonHoc\bin\Debug\BT02_Binding_MonHoc.pdb
+E:\CSDLvsMySQL\Chuong3\BT02_Binding_MonHoc\obj\Debug\BT02_Binding_MonHoc.csproj.AssemblyReference.cache
+E:\CSDLvsMySQL\Chuong3\BT02_Binding_MonHoc\obj\Debug\BT02_Binding_MonHoc.Form1.resources
+E:\CSDLvsMySQL\Chuong3\BT02_Binding_MonHoc\obj\Debug\BT02_Binding_MonHoc.Properties.Resources.resources
+E:\CSDLvsMySQL\Chuong3\BT02_Binding_MonHoc\obj\Debug\BT02_Binding_MonHoc.csproj.GenerateResource.cache
+E:\CSDLvsMySQL\Chuong3\BT02_Binding_MonHoc\obj\Debug\BT02_Binding_MonHoc.csproj.CoreCompileInputs.cache
+E:\CSDLvsMySQL\Chuong3\BT02_Binding_MonHoc\obj\Debug\BT02_Binding_MonHoc.exe
+E:\CSDLvsMySQL\Chuong3\BT02_Binding_MonHoc\obj\Debug\BT02_Binding_MonHoc.pdb

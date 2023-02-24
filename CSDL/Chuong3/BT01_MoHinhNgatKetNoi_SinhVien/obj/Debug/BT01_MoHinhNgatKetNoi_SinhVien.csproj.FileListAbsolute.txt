@@ -1,0 +1,10 @@
+E:\CSDLvsMySQL\Chuong3\BT01_MoHinhNgatKetNoi_SinhVien\bin\Debug\BT01_MoHinhNgatKetNoi_SinhVien.exe.config
+E:\CSDLvsMySQL\Chuong3\BT01_MoHinhNgatKetNoi_SinhVien\bin\Debug\BT01_MoHinhNgatKetNoi_SinhVien.exe
+E:\CSDLvsMySQL\Chuong3\BT01_MoHinhNgatKetNoi_SinhVien\bin\Debug\BT01_MoHinhNgatKetNoi_SinhVien.pdb
+E:\CSDLvsMySQL\Chuong3\BT01_MoHinhNgatKetNoi_SinhVien\obj\Debug\BT01_MoHinhNgatKetNoi_SinhVien.csproj.AssemblyReference.cache
+E:\CSDLvsMySQL\Chuong3\BT01_MoHinhNgatKetNoi_SinhVien\obj\Debug\BT01_MoHinhNgatKetNoi_SinhVien.Form1.resources
+E:\CSDLvsMySQL\Chuong3\BT01_MoHinhNgatKetNoi_SinhVien\obj\Debug\BT01_MoHinhNgatKetNoi_SinhVien.Properties.Resources.resources
+E:\CSDLvsMySQL\Chuong3\BT01_MoHinhNgatKetNoi_SinhVien\obj\Debug\BT01_MoHinhNgatKetNoi_SinhVien.csproj.GenerateResource.cache
+E:\CSDLvsMySQL\Chuong3\BT01_MoHinhNgatKetNoi_SinhVien\obj\Debug\BT01_MoHinhNgatKetNoi_SinhVien.csproj.CoreCompileInputs.cache
+E:\CSDLvsMySQL\Chuong3\BT01_MoHinhNgatKetNoi_SinhVien\obj\Debug\BT01_MoHinhNgatKetNoi_SinhVien.exe
+E:\CSDLvsMySQL\Chuong3\BT01_MoHinhNgatKetNoi_SinhVien\obj\Debug\BT01_MoHinhNgatKetNoi_SinhVien.pdb

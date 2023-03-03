@@ -66,15 +66,15 @@ namespace BT03_Binding_MonHoc_NangCao
             // 
             // txtloaimh
             // 
-            this.txtloaimh.Location = new System.Drawing.Point(59, 141);
+            this.txtloaimh.Location = new System.Drawing.Point(90, 160);
             this.txtloaimh.Name = "txtloaimh";
-            this.txtloaimh.Size = new System.Drawing.Size(315, 20);
+            this.txtloaimh.Size = new System.Drawing.Size(335, 20);
             this.txtloaimh.TabIndex = 96;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(7, 144);
+            this.label3.Location = new System.Drawing.Point(20, 164);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(50, 13);
             this.label3.TabIndex = 95;
@@ -82,41 +82,40 @@ namespace BT03_Binding_MonHoc_NangCao
             // 
             // txttenmh
             // 
-            this.txttenmh.Location = new System.Drawing.Point(59, 78);
+            this.txttenmh.Location = new System.Drawing.Point(90, 97);
             this.txttenmh.Name = "txttenmh";
-            this.txttenmh.Size = new System.Drawing.Size(315, 20);
+            this.txttenmh.Size = new System.Drawing.Size(335, 20);
             this.txttenmh.TabIndex = 94;
             // 
             // txtsotiet
             // 
-            this.txtsotiet.Location = new System.Drawing.Point(59, 109);
+            this.txtsotiet.Location = new System.Drawing.Point(90, 128);
             this.txtsotiet.Name = "txtsotiet";
-            this.txtsotiet.Size = new System.Drawing.Size(315, 20);
+            this.txtsotiet.Size = new System.Drawing.Size(335, 20);
             this.txtsotiet.TabIndex = 93;
             // 
             // txtmamh
             // 
-            this.txtmamh.Location = new System.Drawing.Point(59, 47);
+            this.txtmamh.Location = new System.Drawing.Point(90, 66);
             this.txtmamh.Name = "txtmamh";
             this.txtmamh.ReadOnly = true;
-            this.txtmamh.Size = new System.Drawing.Size(315, 20);
+            this.txtmamh.Size = new System.Drawing.Size(335, 20);
             this.txtmamh.TabIndex = 92;
             // 
             // btnthoat
             // 
             this.btnthoat.BackColor = System.Drawing.Color.Navy;
-            this.btnthoat.Location = new System.Drawing.Point(302, 215);
+            this.btnthoat.Location = new System.Drawing.Point(334, 246);
             this.btnthoat.Name = "btnthoat";
             this.btnthoat.Size = new System.Drawing.Size(72, 34);
             this.btnthoat.TabIndex = 91;
             this.btnthoat.Text = "Thoát";
             this.btnthoat.UseVisualStyleBackColor = false;
-            this.btnthoat.Click += new System.EventHandler(this.btnthoat_Click);
             // 
             // btnkhong
             // 
             this.btnkhong.BackColor = System.Drawing.Color.Navy;
-            this.btnkhong.Location = new System.Drawing.Point(227, 215);
+            this.btnkhong.Location = new System.Drawing.Point(259, 246);
             this.btnkhong.Name = "btnkhong";
             this.btnkhong.Size = new System.Drawing.Size(72, 34);
             this.btnkhong.TabIndex = 90;
@@ -127,7 +126,7 @@ namespace BT03_Binding_MonHoc_NangCao
             // btnghi
             // 
             this.btnghi.BackColor = System.Drawing.Color.Navy;
-            this.btnghi.Location = new System.Drawing.Point(152, 215);
+            this.btnghi.Location = new System.Drawing.Point(184, 246);
             this.btnghi.Name = "btnghi";
             this.btnghi.Size = new System.Drawing.Size(72, 34);
             this.btnghi.TabIndex = 89;
@@ -138,7 +137,7 @@ namespace BT03_Binding_MonHoc_NangCao
             // btnhuy
             // 
             this.btnhuy.BackColor = System.Drawing.Color.Navy;
-            this.btnhuy.Location = new System.Drawing.Point(77, 215);
+            this.btnhuy.Location = new System.Drawing.Point(109, 246);
             this.btnhuy.Name = "btnhuy";
             this.btnhuy.Size = new System.Drawing.Size(72, 34);
             this.btnhuy.TabIndex = 88;
@@ -149,7 +148,7 @@ namespace BT03_Binding_MonHoc_NangCao
             // btncuoi
             // 
             this.btncuoi.BackColor = System.Drawing.Color.Navy;
-            this.btncuoi.Location = new System.Drawing.Point(302, 173);
+            this.btncuoi.Location = new System.Drawing.Point(334, 204);
             this.btncuoi.Name = "btncuoi";
             this.btncuoi.Size = new System.Drawing.Size(72, 34);
             this.btncuoi.TabIndex = 87;
@@ -160,7 +159,7 @@ namespace BT03_Binding_MonHoc_NangCao
             // btnsau
             // 
             this.btnsau.BackColor = System.Drawing.Color.Navy;
-            this.btnsau.Location = new System.Drawing.Point(227, 173);
+            this.btnsau.Location = new System.Drawing.Point(259, 204);
             this.btnsau.Name = "btnsau";
             this.btnsau.Size = new System.Drawing.Size(72, 34);
             this.btnsau.TabIndex = 86;
@@ -171,7 +170,7 @@ namespace BT03_Binding_MonHoc_NangCao
             // btnthem
             // 
             this.btnthem.BackColor = System.Drawing.Color.Navy;
-            this.btnthem.Location = new System.Drawing.Point(2, 215);
+            this.btnthem.Location = new System.Drawing.Point(34, 246);
             this.btnthem.Name = "btnthem";
             this.btnthem.Size = new System.Drawing.Size(72, 34);
             this.btnthem.TabIndex = 85;
@@ -182,7 +181,7 @@ namespace BT03_Binding_MonHoc_NangCao
             // btndau
             // 
             this.btndau.BackColor = System.Drawing.Color.Navy;
-            this.btndau.Location = new System.Drawing.Point(2, 173);
+            this.btndau.Location = new System.Drawing.Point(34, 204);
             this.btndau.Name = "btndau";
             this.btndau.Size = new System.Drawing.Size(72, 34);
             this.btndau.TabIndex = 84;
@@ -193,7 +192,7 @@ namespace BT03_Binding_MonHoc_NangCao
             // btntruoc
             // 
             this.btntruoc.BackColor = System.Drawing.Color.Navy;
-            this.btntruoc.Location = new System.Drawing.Point(77, 173);
+            this.btntruoc.Location = new System.Drawing.Point(109, 204);
             this.btntruoc.Name = "btntruoc";
             this.btntruoc.Size = new System.Drawing.Size(72, 34);
             this.btntruoc.TabIndex = 83;
@@ -204,7 +203,7 @@ namespace BT03_Binding_MonHoc_NangCao
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(7, 112);
+            this.label4.Location = new System.Drawing.Point(20, 132);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(37, 13);
             this.label4.TabIndex = 81;
@@ -213,7 +212,7 @@ namespace BT03_Binding_MonHoc_NangCao
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(7, 81);
+            this.label2.Location = new System.Drawing.Point(20, 101);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(46, 13);
             this.label2.TabIndex = 82;
@@ -225,7 +224,7 @@ namespace BT03_Binding_MonHoc_NangCao
             this.label8.Font = new System.Drawing.Font("Arial", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(0, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(378, 49);
+            this.label8.Size = new System.Drawing.Size(469, 49);
             this.label8.TabIndex = 79;
             this.label8.Text = "DANH SÁCH MÔN HỌC";
             this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -234,7 +233,7 @@ namespace BT03_Binding_MonHoc_NangCao
             // 
             this.lblSTT.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.lblSTT.Font = new System.Drawing.Font("Arial", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSTT.Location = new System.Drawing.Point(152, 173);
+            this.lblSTT.Location = new System.Drawing.Point(184, 204);
             this.lblSTT.Name = "lblSTT";
             this.lblSTT.Size = new System.Drawing.Size(72, 34);
             this.lblSTT.TabIndex = 80;
@@ -244,7 +243,7 @@ namespace BT03_Binding_MonHoc_NangCao
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(7, 50);
+            this.label1.Location = new System.Drawing.Point(20, 70);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(42, 13);
             this.label1.TabIndex = 78;
@@ -266,14 +265,14 @@ namespace BT03_Binding_MonHoc_NangCao
             this.bindingNavigatorMoveNextItem,
             this.bindingNavigatorMoveLastItem,
             this.bindingNavigatorSeparator2});
-            this.bdnmonhoc.Location = new System.Drawing.Point(0, 252);
+            this.bdnmonhoc.Location = new System.Drawing.Point(0, 307);
             this.bdnmonhoc.MoveFirstItem = this.bindingNavigatorMoveFirstItem;
             this.bdnmonhoc.MoveLastItem = this.bindingNavigatorMoveLastItem;
             this.bdnmonhoc.MoveNextItem = this.bindingNavigatorMoveNextItem;
             this.bdnmonhoc.MovePreviousItem = this.bindingNavigatorMovePreviousItem;
             this.bdnmonhoc.Name = "bdnmonhoc";
             this.bdnmonhoc.PositionItem = this.bindingNavigatorPositionItem;
-            this.bdnmonhoc.Size = new System.Drawing.Size(378, 25);
+            this.bdnmonhoc.Size = new System.Drawing.Size(469, 25);
             this.bdnmonhoc.TabIndex = 97;
             this.bdnmonhoc.Text = "bindingNavigator1";
             // 
@@ -311,10 +310,10 @@ namespace BT03_Binding_MonHoc_NangCao
             // 
             this.bindingNavigatorPositionItem.AccessibleName = "Position";
             this.bindingNavigatorPositionItem.AutoSize = false;
-            this.bindingNavigatorPositionItem.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.bindingNavigatorPositionItem.Name = "bindingNavigatorPositionItem";
             this.bindingNavigatorPositionItem.Size = new System.Drawing.Size(50, 23);
-            this.bindingNavigatorPositionItem.Text = "0";
+            this.bindingNavigatorPositionItem.Text = "/";
+            this.bindingNavigatorPositionItem.TextBoxTextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.bindingNavigatorPositionItem.ToolTipText = "Current position";
             // 
             // bindingNavigatorSeparator1
@@ -350,7 +349,7 @@ namespace BT03_Binding_MonHoc_NangCao
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Navy;
-            this.ClientSize = new System.Drawing.Size(378, 277);
+            this.ClientSize = new System.Drawing.Size(469, 332);
             this.Controls.Add(this.bdnmonhoc);
             this.Controls.Add(this.txtloaimh);
             this.Controls.Add(this.label3);

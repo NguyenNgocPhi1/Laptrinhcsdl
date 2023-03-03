@@ -8,13 +8,3 @@ E:\HOC_TAP\CSDLvsMySQL\Chuong3\BT03_Binding_MonHoc_NangCao\obj\Debug\BT03_Bindin
 E:\HOC_TAP\CSDLvsMySQL\Chuong3\BT03_Binding_MonHoc_NangCao\obj\Debug\BT03_Binding_MonHoc_NangCao.csproj.CoreCompileInputs.cache
 E:\HOC_TAP\CSDLvsMySQL\Chuong3\BT03_Binding_MonHoc_NangCao\obj\Debug\BT03_Binding_MonHoc_NangCao.exe
 E:\HOC_TAP\CSDLvsMySQL\Chuong3\BT03_Binding_MonHoc_NangCao\obj\Debug\BT03_Binding_MonHoc_NangCao.pdb
-D:\Laptrinhcsdl\CSDL\Chuong3\BT03_Binding_MonHoc_NangCao\bin\Debug\BT03_Binding_MonHoc_NangCao.exe.config
-D:\Laptrinhcsdl\CSDL\Chuong3\BT03_Binding_MonHoc_NangCao\bin\Debug\BT03_Binding_MonHoc_NangCao.exe
-D:\Laptrinhcsdl\CSDL\Chuong3\BT03_Binding_MonHoc_NangCao\bin\Debug\BT03_Binding_MonHoc_NangCao.pdb
-D:\Laptrinhcsdl\CSDL\Chuong3\BT03_Binding_MonHoc_NangCao\obj\Debug\BT03_Binding_MonHoc_NangCao.csproj.AssemblyReference.cache
-D:\Laptrinhcsdl\CSDL\Chuong3\BT03_Binding_MonHoc_NangCao\obj\Debug\BT03_Binding_MonHoc_NangCao.Form1.resources
-D:\Laptrinhcsdl\CSDL\Chuong3\BT03_Binding_MonHoc_NangCao\obj\Debug\BT03_Binding_MonHoc_NangCao.Properties.Resources.resources
-D:\Laptrinhcsdl\CSDL\Chuong3\BT03_Binding_MonHoc_NangCao\obj\Debug\BT03_Binding_MonHoc_NangCao.csproj.GenerateResource.cache
-D:\Laptrinhcsdl\CSDL\Chuong3\BT03_Binding_MonHoc_NangCao\obj\Debug\BT03_Binding_MonHoc_NangCao.csproj.CoreCompileInputs.cache
-D:\Laptrinhcsdl\CSDL\Chuong3\BT03_Binding_MonHoc_NangCao\obj\Debug\BT03_Binding_MonHoc_NangCao.exe
-D:\Laptrinhcsdl\CSDL\Chuong3\BT03_Binding_MonHoc_NangCao\obj\Debug\BT03_Binding_MonHoc_NangCao.pdb

@@ -1,0 +1,10 @@
+D:\Laptrinhcsdl\CSDL\Chuong3\BT05_Binding_Sinhvien_Phai\bin\Debug\BT05_Binding_Sinhvien_Phai.exe.config
+D:\Laptrinhcsdl\CSDL\Chuong3\BT05_Binding_Sinhvien_Phai\bin\Debug\BT05_Binding_Sinhvien_Phai.exe
+D:\Laptrinhcsdl\CSDL\Chuong3\BT05_Binding_Sinhvien_Phai\bin\Debug\BT05_Binding_Sinhvien_Phai.pdb
+D:\Laptrinhcsdl\CSDL\Chuong3\BT05_Binding_Sinhvien_Phai\obj\Debug\BT05_Binding_Sinhvien_Phai.csproj.AssemblyReference.cache
+D:\Laptrinhcsdl\CSDL\Chuong3\BT05_Binding_Sinhvien_Phai\obj\Debug\BT05_Binding_Sinhvien_Phai.Form1.resources
+D:\Laptrinhcsdl\CSDL\Chuong3\BT05_Binding_Sinhvien_Phai\obj\Debug\BT05_Binding_Sinhvien_Phai.Properties.Resources.resources
+D:\Laptrinhcsdl\CSDL\Chuong3\BT05_Binding_Sinhvien_Phai\obj\Debug\BT05_Binding_Sinhvien_Phai.csproj.GenerateResource.cache
+D:\Laptrinhcsdl\CSDL\Chuong3\BT05_Binding_Sinhvien_Phai\obj\Debug\BT05_Binding_Sinhvien_Phai.csproj.CoreCompileInputs.cache
+D:\Laptrinhcsdl\CSDL\Chuong3\BT05_Binding_Sinhvien_Phai\obj\Debug\BT05_Binding_Sinhvien_Phai.exe
+D:\Laptrinhcsdl\CSDL\Chuong3\BT05_Binding_Sinhvien_Phai\obj\Debug\BT05_Binding_Sinhvien_Phai.pdb

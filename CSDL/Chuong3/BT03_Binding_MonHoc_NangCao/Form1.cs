@@ -11,6 +11,7 @@ using System.Data.OleDb;
 
 namespace BT03_Binding_MonHoc_NangCao
 {
+    
     public partial class Form1 : Form
     {
 
@@ -129,54 +130,60 @@ namespace BT03_Binding_MonHoc_NangCao
             bs.MoveLast();
         }
 
-        private void btnthem_Click(object sender, EventArgs e)
-        {
-            txtmamh.ReadOnly = false;
-            bs.AddNew();
-            txtmamh.Focus();
-        }
-
-        private void btnhuy_Click(object sender, EventArgs e)
-        {
-            DataRow[] Mang_dong_lien_quan = ds.Tables["KETQUA"].Select("MaMH = '" + txtmamh.Text + "'");
-            if(Mang_dong_lien_quan.Length > 0)
-            {
-                MessageBox.Show("Không xoá được do tồn tại những dòng liên quan trong kETQUA");
-            }
-            bs.RemoveCurrent();
-            int n = adpMonHoc.Update(ds, "Monhoc");
-            if (n > 0)
-                MessageBox.Show("Hủy môn học thành công");
-        }
-
-        private void btnghi_Click(object sender, EventArgs e)
-        {
-            if(!txtmamh.ReadOnly)
-            {
-                DataRow[] Mang_dong = ds.Tables["MONHOC"].Select("MaMH = '" + txtmamh.Text + "'");
-                if(Mang_dong.Length>0)
-                {
-                    MessageBox.Show("Trùng khóa chính. Nhập lại");
-                    txtmamh.Focus();
-                    return;
-                }
-            }
-            txtmamh.ReadOnly = true;
-            bs.EndEdit();
-            int n = adpMonHoc.Update(ds, "Monhoc");
-            if (n > 0)
-                MessageBox.Show("Cập nhập môn học thành công");
-        }
-
         private void btnkhong_Click(object sender, EventArgs e)
         {
             bs.CancelEdit();
             txtmamh.ReadOnly = true;
         }
 
-        private void btnthoat_Click(object sender, EventArgs e)
+        private void btnhuy_Click(object sender, EventArgs e)
         {
+            //hủy trong DataTable
+            //Kiểm tra có tồn tại các mẫu tin có liên quan trong KETQUA hay không trước khi hủy
+            DataRow[] Mang_dong_lien_quan = ds.Tables["KETQUA"].Select("MaMH = '" + txtmamh.Text + "'");
+            if(Mang_dong_lien_quan.Length > 0)
+            {
+                MessageBox.Show("Không xóa được do tồn tại các dòng liên qua trong KETQUA!");
+                return;
+            }
+            bs.RemoveCurrent();
 
+            //hủy trong CSDL
+            int n = adpMonHoc.Update(ds, "MONHOC");
+            if (n > 0)
+                MessageBox.Show("Hủy môn học thành công!");
+           
+        }
+
+        private void btnghi_Click(object sender, EventArgs e)
+        {
+            if(!txtmamh.ReadOnly) //thêm mới
+            {
+                DataRow[] Mang_dong = ds.Tables["MONHOC"].Select("MaMH = '" + txtmamh.Text + "'");
+                if (Mang_dong.Length > 0)
+                {
+                    MessageBox.Show("Trùng khóa chính! Nhập lại");
+                    txtmamh.Focus();
+                    return;
+                }
+                
+            }
+
+            //Cập nhập lạ việ thêm mới hay sửa trong DataTable
+            bs.EndEdit();
+            int n = adpMonHoc.Update(ds, "MONHOC");
+            if (n > 0)
+                MessageBox.Show("Cập nhập môn học thành công!");
+
+            txtmamh.ReadOnly = true;
+        }
+
+        private void btnthem_Click(object sender, EventArgs e)
+        {
+            txtmamh.ReadOnly = false;
+            //Thêm mới
+            bs.AddNew();
+            txtmamh.Focus();
         }
 
         private void btnsau_Click(object sender, EventArgs e)

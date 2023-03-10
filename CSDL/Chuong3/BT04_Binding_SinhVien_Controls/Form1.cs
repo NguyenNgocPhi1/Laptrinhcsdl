@@ -44,7 +44,7 @@ namespace BT04_Binding_SinhVien_Controls
         }
         private void Khoi_tao_comboBox()
         {
-            cbomakh.DisplayMember = "TenKH";
+            cbomakh.DisplayMember = "TenkH";
             cbomakh.ValueMember = "MaKH";
             cbomakh.DataSource = ds.Tables["KHOA"];
         }

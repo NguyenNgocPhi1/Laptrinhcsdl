@@ -37,6 +37,7 @@ namespace BT05_Binding_Sinhvien_Phai
             Khoi_tao_BindingSource();
             Khoi_tao_comboBox();
             Lien_ket_dieu_khien();
+
         }
         private void Khoi_tao_comboBox()
         {
@@ -92,10 +93,10 @@ namespace BT05_Binding_Sinhvien_Phai
                 else if (ctl is DateTimePicker)
                     ctl.DataBindings.Add("value", bs, ctl.Name.Substring(3), true);
             //Binding cho điều khiển txtphai
-            Binding bdphai = new Binding("text", bs, "Phai", true);
-            bdphai.Format += Bdphai_Format;
-            bdphai.Parse += Bdphai_Parse;
-            txtphai.DataBindings.Add(bdphai);
+            //Binding bdphai = new Binding("text", bs, "Phai", true);
+            //bdphai.Format += Bdphai_Format;
+            //bdphai.Parse += Bdphai_Parse;
+            //txtphai.DataBindings.Add(bdphai);
             //ĐỊnh dạng lại học bỗng trước khi hiển thị
             txthocbong.DataBindings[0].FormatString = "#,##0 đ";
 

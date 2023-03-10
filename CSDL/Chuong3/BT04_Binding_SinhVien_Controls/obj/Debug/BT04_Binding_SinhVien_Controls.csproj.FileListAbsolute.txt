@@ -8,3 +8,13 @@ E:\HOC_TAP\CSDLvsMySQL\Chuong3\BT04_Binding_SinhVien_Controls\bin\Debug\BT04_Bin
 E:\HOC_TAP\CSDLvsMySQL\Chuong3\BT04_Binding_SinhVien_Controls\bin\Debug\BT04_Binding_SinhVien_Controls.pdb
 E:\HOC_TAP\CSDLvsMySQL\Chuong3\BT04_Binding_SinhVien_Controls\obj\Debug\BT04_Binding_SinhVien_Controls.exe
 E:\HOC_TAP\CSDLvsMySQL\Chuong3\BT04_Binding_SinhVien_Controls\obj\Debug\BT04_Binding_SinhVien_Controls.pdb
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\BT04_Binding_SinhVien_Controls\bin\Debug\BT04_Binding_SinhVien_Controls.exe.config
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\BT04_Binding_SinhVien_Controls\bin\Debug\BT04_Binding_SinhVien_Controls.exe
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\BT04_Binding_SinhVien_Controls\bin\Debug\BT04_Binding_SinhVien_Controls.pdb
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\BT04_Binding_SinhVien_Controls\obj\Debug\BT04_Binding_SinhVien_Controls.csproj.AssemblyReference.cache
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\BT04_Binding_SinhVien_Controls\obj\Debug\BT04_Binding_SinhVien_Controls.Form1.resources
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\BT04_Binding_SinhVien_Controls\obj\Debug\BT04_Binding_SinhVien_Controls.Properties.Resources.resources
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\BT04_Binding_SinhVien_Controls\obj\Debug\BT04_Binding_SinhVien_Controls.csproj.GenerateResource.cache
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\BT04_Binding_SinhVien_Controls\obj\Debug\BT04_Binding_SinhVien_Controls.csproj.CoreCompileInputs.cache
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\BT04_Binding_SinhVien_Controls\obj\Debug\BT04_Binding_SinhVien_Controls.exe
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\BT04_Binding_SinhVien_Controls\obj\Debug\BT04_Binding_SinhVien_Controls.pdb

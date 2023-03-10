@@ -1,0 +1,15 @@
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.csproj.AssemblyReference.cache
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.Form1.resources
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.Properties.Resources.resources
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.csproj.GenerateResource.cache
+C:\Users\KHOACNTT\Desktop\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.csproj.CoreCompileInputs.cache
+D:\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\bin\Debug\Dataset_Co_dinh_kieu_Sinhvien.exe.config
+D:\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\bin\Debug\Dataset_Co_dinh_kieu_Sinhvien.exe
+D:\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\bin\Debug\Dataset_Co_dinh_kieu_Sinhvien.pdb
+D:\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.csproj.AssemblyReference.cache
+D:\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.Form1.resources
+D:\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.Properties.Resources.resources
+D:\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.csproj.GenerateResource.cache
+D:\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.csproj.CoreCompileInputs.cache
+D:\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.exe
+D:\Laptrinhcsdl\CSDL\Chuong3\Dataset_Co_dinh_kieu_Sinhvien\obj\Debug\Dataset_Co_dinh_kieu_Sinhvien.pdb
